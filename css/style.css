@@ -1,0 +1,148 @@
+.social
+{
+    /* padding-left: 1450px;
+    margin-top: -100px; */
+}
+.aboutustext
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+}
+.aboutusdetail
+{
+    
+    font-size: 20px;
+}
+.header
+{
+    background-color:#1c2c5b;
+    height: 100px;
+    color: white;
+    
+   
+}
+footer
+{
+  color: white
+  background-color:#1c2c5b;
+}
+
+.carousel-inner {
+  width: 100%;
+  max-height: 600px !important;
+}
+.lower
+{
+    background-color: #1c2c5b;
+    
+}
+.container-fluid
+{
+    background-color: rgb(198, 201, 240);
+}
+.aboutusadress
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color: rgb(141, 132, 221);
+}
+.arrange div
+{
+    display: inline-block;
+    text-align: center;
+}
+@media (max-width: 575s.98px) 
+{
+    .social
+    {
+        visibility: hidden;
+        display: none;
+    }
+}
+.arrangement
+{
+    text-align: right;
+}
+.arrangement1
+{
+    text-align: right;
+    color: white;
+}
+@media screen and (max-width: 769px) 
+{
+    .arrangement1 
+    {
+      visibility: hidden;
+      clear: both;
+      float: left;
+      margin: 10px auto 5px 20px;
+      width: 28%;
+      display: none;
+    }
+}
+
+/* Nav Bar */
+.nav-link:visited,
+.nav-link:link {
+  /* padding-top: 12px; */
+  height: 50px;
+  border-bottom: 3px solid transparent;
+}
+.nav-link:hover,
+.nav-link:active {
+  /* padding-top: 12px; */
+  height: 50px;
+  border-bottom: 3px solid #1bcfc6;
+  transition: 0.2s;
+}
+
+
+/* Icons */
+.media-icons {
+    display: inline;
+    float: right;
+    margin-top: 35px;
+    margin-right: 40px;
+  }
+  .icons {
+    margin-left: 10px;
+    height: 45px;
+    width: 45px;
+  }
+  .icons:hover {
+    margin-left: 10px;
+    height: 45px;
+    width: 45px;
+    opacity: 0.7;
+    transform: rotate(360deg);
+    transition: 0.4s;
+  }
+.top-bar {
+    background: #343a40ed;
+  }
+
+
+
+
+
+  .navbar {
+    min-height: 80px;
+  }
+  
+  .navbar-brand {
+    padding: 0 15px;
+    height: 80px;
+    line-height: 80px;
+  }
+  
+  .navbar-toggle {
+    /* (80px - button height 34px) / 2 = 23px */
+    margin-top: 23px;
+    padding: 9px 10px !important;
+  }
+
+  .product-formatting  {
+    margin-top: 10px;
+    text-align: center;
+  }
